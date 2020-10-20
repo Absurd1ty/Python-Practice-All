@@ -1,4 +1,4 @@
-""" this was a problem in medium difficulty and i assume they wanted you to write any way to sart an array so I wrote 1 i thought of"""
+""" this was a problem in medium difficulty and i assume they wanted you to write any way to sort an array so I wrote 1 i thought of"""
 
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
